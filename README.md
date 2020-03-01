@@ -55,7 +55,7 @@ After upload new bike will be available in main tab.
 
 ## Edit
 
-This funcionality allow to Edit all parameters like: Name of bike, price and foto. 
+This funcionality allow to edit all parameters like: Name of bike, price and foto. 
 
 
 
