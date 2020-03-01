@@ -65,5 +65,5 @@ There You have summarry board of actual rents assign to each customer.
 
 ![alt text1](https://github.com/potepa606/BikeMarket/blob/master/src/main/resources/static/images/Readme_summary.PNG)
 
-Do not hesitate and try it out  :smile:
+Do not hesitate to try out the app.  :smile:
 
