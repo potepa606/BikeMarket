@@ -11,12 +11,13 @@ Used backet "jdbc:postgresql://mytestdatabase.cd5sl8ldadft.eu-central-1.rds.amaz
 
 ## Prerequisites
   
-Java 11  
-Apache Maven 3.x
+-  Java 11  
+ - Apache Maven 3.x
 
 # Access Process
 
-To gain fully application access You have to regist yourself to database by regist buttun and following next steps.
+To gain fully application access You have to regist yourself to database by regist button and following next steps.
+Then You are albe to log in and have fully permision. 
 
 ![alt text1](https://raw.githubusercontent.com/potepa606/BikeMarket/master/src/main/resources/static/images/Readme_Login.PNG)
 
@@ -48,15 +49,18 @@ There are three obligatory field to complete.
 - Price [zł] / day 
 - Bike photo
 
+After upload new bike will be available in main tab.
+
 ![alt text1](https://github.com/potepa606/BikeMarket/blob/master/src/main/resources/static/images/Readme_Rent.PNG)
 
 ## Edit
 
-In this place You have overview about all rent bike. 
+This funcionality allow to Edit all parameters like: Name of bike, price and foto. 
+
 
 
 ## Rentals
 
-There You have summarry board. 
+There You have summarry board of actual rents assign to each customer. 
 
 ![alt text1](https://github.com/potepa606/BikeMarket/blob/master/src/main/resources/static/images/Readme_summary.PNG)
