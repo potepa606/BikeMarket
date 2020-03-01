@@ -1,4 +1,4 @@
-# BikeMarket
+# BikeMarket :motor_scooter:
 
    BitMarket is web application creation to menage bike fleet. With admin permision we can add/remove bike from the data base.
 For particular vehicle we are able to change parameters. Application allow also track actual rent status provide us necessary information like: person name, bike type and prices.
@@ -17,7 +17,7 @@ Used backet "jdbc:postgresql://mytestdatabase.cd5sl8ldadft.eu-central-1.rds.amaz
 # Access Process
 
 To gain fully application access You have to regist yourself to database by regist button and following next steps.
-Then You are albe to log in and have fully permision. 
+Then You are able to log in and have fully permision. 
 
 ![alt text1](https://raw.githubusercontent.com/potepa606/BikeMarket/master/src/main/resources/static/images/Readme_Login.PNG)
 
@@ -64,3 +64,6 @@ This funcionality allow to Edit all parameters like: Name of bike, price and fot
 There You have summarry board of actual rents assign to each customer. 
 
 ![alt text1](https://github.com/potepa606/BikeMarket/blob/master/src/main/resources/static/images/Readme_summary.PNG)
+
+Do not hesitate and try it out  :smile:
+
