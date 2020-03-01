@@ -23,6 +23,16 @@ To gain fully application access You have to regist yourself to database by regi
 
 # Main Functionality - details description
 
+BitMarket web application has four tab.
+ 
+:one:  Main
+
+:two: Add Bike
+
+:three: Edit
+
+:four: Renatals
+
 ## Main
 
 Here You can find general information and bikes summary.
@@ -39,13 +49,13 @@ There are three obligatory field to complete.
 - Bike photo
 
 
-## Rentals
+## Edit
 
 In this place You have overview about all rent bike. 
 
 ![alt text1](https://github.com/potepa606/BikeMarket/blob/master/src/main/resources/static/images/Readme_Rent.PNG)
 
-## Summarry
+## Rentals
 
 There You have summarry board. 
 
