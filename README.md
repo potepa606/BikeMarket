@@ -48,12 +48,12 @@ There are three obligatory field to complete.
 - Price [zł] / day 
 - Bike photo
 
+![alt text1](https://github.com/potepa606/BikeMarket/blob/master/src/main/resources/static/images/Readme_Rent.PNG)
 
 ## Edit
 
 In this place You have overview about all rent bike. 
 
-![alt text1](https://github.com/potepa606/BikeMarket/blob/master/src/main/resources/static/images/Readme_Rent.PNG)
 
 ## Rentals
 
