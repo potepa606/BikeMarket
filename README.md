@@ -61,7 +61,8 @@ This funcionality allow to edit all parameters like: Name of bike, price and fot
 
 ## Rentals
 
-There You have summarry board of actual rents assign to each customer. 
+There You have summary board of actual rents assign to each customer. 
+On the right there are particular customers, after selection we gain view of their rentals.
 
 ![alt text1](https://github.com/potepa606/BikeMarket/blob/master/src/main/resources/static/images/Readme_summary.PNG)
 
