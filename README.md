@@ -36,7 +36,7 @@ BitMarket web application has four tab.
 
 ## Main
 
-Here You can find general information.
+Here You can find general information and short web advise. 
 
 ![alt text1](https://github.com/potepa606/BikeMarket/blob/master/src/main/resources/static/images/Readme_add.PNG)
 
