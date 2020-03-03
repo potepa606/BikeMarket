@@ -51,12 +51,14 @@ There are three obligatory field to complete.
 
 After upload new bike will be available in main tab.
 
-![alt text1](https://github.com/potepa606/BikeMarket/blob/master/src/main/resources/static/images/Readme_Rent.PNG)
+![alt text1](https://user-images.githubusercontent.com/34142069/75780301-5eaca000-5d5b-11ea-8850-1fa282dd88b6.png)
+
 
 ## Edit
 
 This funcionality allow to edit all parameters like: Name of bike, price and foto. 
 
+![alt text1](https://github.com/potepa606/BikeMarket/blob/master/src/main/resources/static/images/Readme_Rent.PNG)
 
 
 ## Rentals
@@ -67,4 +69,12 @@ On the right there are particular customers, after selection we gain view of the
 ![alt text1](https://github.com/potepa606/BikeMarket/blob/master/src/main/resources/static/images/Readme_summary.PNG)
 
 Do not hesitate to try out the app.  :smile:
+
+## Technologies
+<span>
+   <img src = "https://user-images.githubusercontent.com/34142069/75779745-77688600-5d5a-11ea-9866-50d157d5ee00.png" width="150" height="150" />
+   <img src = "https://user-images.githubusercontent.com/34142069/75779747-78011c80-5d5a-11ea-9e0a-a038033b85f0.png" width="200" height="200" />
+   <img src = "https://user-images.githubusercontent.com/34142069/75779749-7899b300-5d5a-11ea-8e46-9fc7c2c00b65.png" width="200" height="160" />
+   <img src = "https://upload.wikimedia.org/wikipedia/commons/0/0b/Maven_logo.svg" width="200" height="140" />
+</span>
 
