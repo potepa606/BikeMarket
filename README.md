@@ -6,8 +6,8 @@ For particular vehicle we are able to change parameters. Application allow also 
 
 ## Solution
 
-The data base is situated in external amazon database.
-Used backet "jdbc:postgresql://mytestdatabase.cd5sl8ldadft.eu-central-1.rds.amazonaws.com:6378/postgres"
+The data base is situated in external aws amazon database.
+Also used external storage S3 bucket from aws amazon to store photos.
 
 ## Prerequisites
   
